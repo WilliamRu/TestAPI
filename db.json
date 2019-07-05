@@ -1,5 +1,5 @@
 {
-    citites: [   
+    cities: [   
     {
       "id" : 1,
       "name":"г. Москва",
