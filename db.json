@@ -18,7 +18,7 @@
     "string9",
     "string10",
     function() {return false},
-    function() {retrun 1}
+    function() {retrun 1},
     "string12",
     "string13",
     "string14",
