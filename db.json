@@ -1,15 +1,15 @@
 {
- "testArr": [
+  "testArr": [
     "string1",
     "string2",
     "string3",
     [
-    "string4",
-    "string5",
+      "string4",
+      "string5",
       [
-    "string6",
-    "string7",
-    "string8",
+        "string6",
+        "string7",
+        "string8",
         1,
         2,
         4
@@ -25,12 +25,12 @@
     null,
     {},
     {
-     "name": "1",
-     "prop": "foo"
+      "name": "1",
+      "prop": "foo"
     },
     {
-     "name": "2",
-     "prop": "bar"
+      "name": "2",
+      "prop": "bar"
     },
     [
       null,
@@ -43,39 +43,39 @@
     ],
     "string16",
     [
-     [
       [
-       [
-         [
+        [
           [
-           [
-            {
-     "name": "3",
-     "prop": "foo1"
-    },
-    {
-     "name": "4",
-     "prop": "bar1"
-    },
-            
-    {
-     "name": "5",
-     "prop": "bar1"
-    },
-            "9007199254740991n",
             [
-             [
-              null,
-              true,
-              false,
-             ]
-            ],
-           ]
+              [
+                [
+                  {
+                    "name": "3",
+                    "prop": "foo1"
+                  },
+                  {
+                    "name": "4",
+                    "prop": "bar1"
+                  },
+
+                  {
+                    "name": "5",
+                    "prop": "bar1"
+                  },
+                  "9007199254740991n",
+                  [
+                    [
+                      null,
+                      true,
+                      false
+                    ]
+                  ]
+                ]
+              ]
+            ]
           ]
-         ]
-       ]
+        ]
       ]
-     ]
     ]
- ]
+  ]
 }
