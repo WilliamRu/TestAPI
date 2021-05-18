@@ -24,14 +24,61 @@
     "string15",
     null,
     {},
+    {
+     "name": "1",
+     "prop": "foo"
+    },
+    {
+     "name": "2",
+     "prop": "bar"
+    },
     [
       null,
       [
         5,
         6,
-        7
+        7,
+        12312315,
       ]
     ],
-    "string16"
+    "string16",
+    [
+     [
+      [
+       [
+         [
+          [
+           [
+            {
+     "name": "3",
+     "prop": "foo1"
+    },
+    {
+     "name": "4",
+     "prop": "bar1"
+    },
+            
+    {
+     "name": "5",
+     "prop": "bar1"
+    },
+            9007199254740991n,
+            [
+             [
+              undefined,
+                  undefined,
+                  undefined,
+              null,
+              true,
+              false,
+             ]
+            ],
+           ]
+          ]
+         ]
+       ]
+      ]
+     ]
+    ]
  ]
 }
