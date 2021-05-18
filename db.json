@@ -62,12 +62,9 @@
      "name": "5",
      "prop": "bar1"
     },
-            9007199254740991n,
+            "9007199254740991n",
             [
              [
-              undefined,
-                  undefined,
-                  undefined,
               null,
               true,
               false,
